@@ -14,3 +14,5 @@
 *tests.pdf
 *.jar
 patches
+.DS_Store
+featurefiles/.DS_Store
